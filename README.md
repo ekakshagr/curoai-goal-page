@@ -8,7 +8,6 @@ This is a responsive, single-screen web app where users can submit their persona
 
 👉 [Try it on GitHub Pages](https://ekakshagr.github.io/curoai-goal-page/)
 
-> Replace `yourusername` with your actual GitHub username above.
 
 ---
 
